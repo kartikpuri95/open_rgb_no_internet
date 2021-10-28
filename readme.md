@@ -12,7 +12,7 @@ Quick python script which will change the light of your RGB components to red wh
 ## How to find the devices
 
 - use `cli.getDevices` to get the list of all the devices
-- use this link for installation and documentation  https://openrgb-python.readthedocs.io/en/latest/
+- use this link for installation and documentation  https://openrgb-python.readthedocs.io/en/latest
 
 
 
